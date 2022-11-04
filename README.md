@@ -1,6 +1,6 @@
 # Tic Tac Toe with React - Typescript
 
-This is dynamic tic-tac-toe, implemented using DFS and minimax (AI)
+This is dynamic tic-tac-toe, implemented using Tree and Minimax (AI)
 
 ### `npm start`
 
